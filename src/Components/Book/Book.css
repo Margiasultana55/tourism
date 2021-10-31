@@ -1,0 +1,34 @@
+
+
+.description{
+text-align: justify;
+}
+
+.booking-form{
+  margin-left: 30rem;
+}
+.booking-form input {
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px;
+}
+.error{
+    color: red;
+}
+
+.submit-btn{
+    background-color: rgba(14, 46, 97, 0.986);
+    color: white;
+}
+
+.submit-btn:hover{
+    background-color: rgba(14, 57, 97, 0.835);
+}
+@media screen and (max-width: 480px) {
+    .booking-form{
+        margin-left: 2rem;
+      }
+  }

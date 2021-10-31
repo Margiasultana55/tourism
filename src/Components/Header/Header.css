@@ -1,0 +1,17 @@
+.nav-link{
+    color: white;
+   }
+   .nav-link:hover{
+   color: rgb(25, 219, 209);
+   border-bottom: 1px solid rgb(10, 155, 212);
+   }
+   .border{
+       border: 2px solid white;
+       border-radius: 10px;
+       margin-right: 5px;
+       display: inline-block;
+   }
+   .navbar{
+       background-color: rgba(14, 57, 97, 0.835);
+       
+   }

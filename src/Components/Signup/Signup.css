@@ -1,0 +1,32 @@
+.my-btn{
+    border: none;
+    color: rgb(9, 53, 126);
+    background-color: white;
+}
+.column{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.google{
+    border: 1px solid rgb(9, 53, 126);
+    border-radius: 5px;
+    display: block;
+    font-weight: bold;
+    
+}
+.google:hover{
+    background-color:rgb(30, 70, 136) ;
+    color: white;
+}
+.signup-btn{
+    background-color:rgb(30, 70, 136) ;
+    color: white;
+}
+.signup-btn:hover{
+    background-color:rgb(45, 92, 167) ;
+    color: white;
+}
+.textt{
+    margin-top: 10rem;
+    color: rgb(45, 92, 167);
+}
